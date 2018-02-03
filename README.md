@@ -13,6 +13,13 @@ A project to develop modern scientific libraries for JavaScript.
 
 The [metis](https://github.com/tiagoantao/metis) project deals with population genetics. Several components are already functional, most notably a [Population genetics teaching tool](https://tiago.org/sim)!
 
+
+## Teaching sub-projects
+
+- [metis-web](https://github.com/tiagoantao/metis-web) Teaching population genetics. [Online here](https://tiago.org/sim)
+- [sci-stats](https://github.com/tiagoantao/sci-stats-web) Teaching statistics. Planned
+
+
 ## See also
 
 ## Licensing and contact
